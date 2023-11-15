@@ -23,6 +23,7 @@
 [![Express](https://img.shields.io/badge/-Express-green?style=flat-square&logo=express&logoColor=white)](https://expressjs.com/)
 [![AWS](https://img.shields.io/badge/-AWS-orange?style=flat-square&logo=amazon-aws&logoColor=white)](https://aws.amazon.com/)
 [![MongoDB](https://img.shields.io/badge/-MongoDB-green?style=flat-square&logo=mongodb&logoColor=white)](https://www.mongodb.com/)
+![Router](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
 
 #### ETC
 [![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git&logoColor=white)](https://git-scm.com/)
