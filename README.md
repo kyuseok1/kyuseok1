@@ -25,7 +25,7 @@
 ![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white)
 ![Styled-Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
 ![WebSocket](https://img.shields.io/badge/WebSocket-010101?style=for-the-badge&logo=websocket&logoColor=white)
-
+![RESTful API](https://img.shields.io/badge/RESTful%20API-4CAF50?style=for-the-badge&logo=api&logoColor=white)
 
 #### ETC
 [![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git&logoColor=white)](https://git-scm.com/)
